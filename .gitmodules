@@ -16,3 +16,6 @@
 [submodule "voting_system/lib/forge-std"]
 	path = voting_system/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "voting_system/lib/openzeppelin-contracts"]
+	path = voting_system/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
